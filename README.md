@@ -1,2 +1,8 @@
 # Zoho
-Additions &amp; Changes to Zoho Programs &amp; Apps
+Additions and Changes to Zoho Programs and Apps
+Adding Modules
+Adding Extensions
+Adding Integrations
+Editing Modules
+Editing Forms
+Creating Workflows & Automation
